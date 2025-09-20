@@ -14,6 +14,9 @@ export default function Hero() {
         <h1 className="text-4xl lg:text-6xl font-extrabold text-gray-900 mb-4">
           <span className="neon-text-glow">TrustGuard</span>
         </h1>
+        <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-semibold">
+            PROTOTYPE
+          </span>
         <p className="text-2xl text-blue-700 font-medium mb-4">AI-Powered Misinformation Detection</p>
         <p className="text-gray-600 max-w-2xl mx-auto mb-8">
           Instantly analyze content credibility with advanced AI. Get real-time trust scores, source verification,
